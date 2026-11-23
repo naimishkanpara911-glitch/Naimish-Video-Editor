@@ -1,0 +1,43 @@
+{
+  "portrait": null,
+  "driveFolder": "https://drive.google.com/drive/folders/12_ADKGgZQ91GJB0OuiNNDRcWf5uDqcTI?usp=sharing",
+  "videos": [
+    {
+      "title": "Maruti Air Compressor Reel",
+      "category": "AI Video",
+      "driveId": "1EY3uB3dZKPRJLI-gtr5SKxZSuuetpMz0",
+      "poster": "/media/maruti.webp",
+      "videoPoster": "/media/maruti-frame.webp",
+      "file": "/media/maruti.mp4",
+      "length": "0:33"
+    },
+    {
+      "title": "New Reel",
+      "category": "Cafe",
+      "driveId": "1IX4asLcjnVjMmsO16yIzLrLfo7AyNWVo",
+      "poster": "/media/cafe.webp",
+      "videoPoster": "/media/cafe-frame.webp",
+      "file": "/media/cafe.mp4",
+      "length": "0:17"
+    },
+    {
+      "title": "Hanuman",
+      "category": "Other",
+      "driveId": "1JvWrA-BEnI9ndS_AB1x-IQ5n2-RRiNaQ",
+      "poster": "/media/hanuman.webp",
+      "videoPoster": "/media/hanuman-frame.webp",
+      "file": "/media/hanuman.mp4",
+      "length": "0:07"
+    },
+    {
+      "title": "Post 01",
+      "category": "Post – Typ Video",
+      "driveId": "16tnHzVCE2Q21WElOrfBF88UbubJt7jLv",
+      "poster": "/media/post.webp",
+      "videoPoster": "/media/post-frame.webp",
+      "file": "/media/post.mp4",
+      "length": "0:04"
+    }
+  ],
+  "featuredVideoId": "1JvWrA-BEnI9ndS_AB1x-IQ5n2-RRiNaQ"
+}

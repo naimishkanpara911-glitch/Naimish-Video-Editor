@@ -1,0 +1,7 @@
+html, body, #root, main, .shader-frame, .shader-frame .landing-page-frame {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+html, body { overflow: hidden; background: #080a0b; }
+.shader-frame { height: 100vh; height: 100dvh; }
